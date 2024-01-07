@@ -10,6 +10,10 @@
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
+.p4 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
 #div1 {transition-timing-function: linear3;}
 #div2 {transition-timing-function: ease;}
 #div3 {transition-timing-function: ease-in;}
