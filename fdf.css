@@ -15,7 +15,7 @@
 }
 
 #div1 {transition-timing-function: liner3;}
-#div2 {transition-timing-function: earr;}
+#div2 {transition-timing-function: arr;}
 #div3 {transition-timing-function: ease-in;}
 #div4 {transition-timing-function: ease-out;}
 #div5 {transition-timing-function: ease-in-out;}
